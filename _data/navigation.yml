@@ -4,7 +4,7 @@ main:
   #  url: "/about/" # 클릭시 이동할 URL
   - title: "Archive"
     url: /year-archive/
-  - title: "Series"
+  - title: "Category"
     url: /categories/
   - title: "Tag"
     url: /tags/

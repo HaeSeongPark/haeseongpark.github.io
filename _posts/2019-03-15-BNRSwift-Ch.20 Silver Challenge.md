@@ -12,7 +12,8 @@ tags:
 
 First, We need position which is chracter's index of stinrg. You want to add it the places where error would occur like InvalidCharacter. And we need to hold the position of invalid Character, so add it Tokens. I've implemented extra work that print caret(^) indicating position of invalid stuff intuitively.
 
-![result](https://github.com/HaeSeongPark/haeseongpark.github.io/blob/master/assets/images/BRNSwift2ed-Ch20-SivlerChallenge-Result.png)
+{% include figure image_path="/assets/images/BRNSwift2ed-Ch20-SivlerChallenge-Result.png" alt="This is a result image" caption="This is a result image." %}
+
 
 
 [code](https://github.com/HaeSeongPark/BNRSwift/commit/a2b98ec595c30cd1f380d9fa84f6999efd058365)

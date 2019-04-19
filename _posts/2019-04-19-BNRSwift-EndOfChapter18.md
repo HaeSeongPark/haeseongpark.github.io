@@ -1,5 +1,5 @@
 ---
-title:  "The Big Nerd Ranch Swift - End of chapter 23"
+title:  "The Big Nerd Ranch Swift - End of chapter 18"
 categories: 
   - Swift
 tags:
